@@ -1,0 +1,123 @@
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\scopedcss\bundle\PáginaGym.styles.css
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\staticwebassets\PáginaGym.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\ref\PáginaGym.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.exe
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.deps.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.runtimeconfig.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\ref\PáginaGym.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.Views.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.Views.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.Views.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\proyectos para agregar\PáginaGym\PáginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.exe
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.deps.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.runtimeconfig.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.Views.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.Views.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\scopedcss\bundle\PáginaGym.styles.css
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\staticwebassets\PáginaGym.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.Views.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\ref\PáginaGym.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.pdb
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\MailKit.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\3-PORTFOLIO\PaginaGym\PáginaGym\obj\Debug\net5.0\refint\PáginaGym.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\appsettings.json
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.exe
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.deps.json
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.pdb
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.Views.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\PáginaGym.Views.pdb
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\MailKit.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\MimeKit.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\scopedcss\bundle\PáginaGym.styles.css
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\staticwebassets\PáginaGym.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.Views.pdb
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\refint\PáginaGym.dll
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.pdb
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\PáginaGym.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Azure\PaginaGym\PáginaGym\obj\Debug\net5.0\ref\PáginaGym.dll
